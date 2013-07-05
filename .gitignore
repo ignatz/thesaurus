@@ -1,0 +1,7 @@
+/lib
+!/lib/build.sh
+
+CMake*
+*.cmake
+Makefile
+*.so
